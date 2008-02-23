@@ -1,5 +1,29 @@
 I am Jack's PHP framework.
 
-(Documentation coming soon.)
+Jack's PHP came out of a project for a client that needs a slightly complex website
+that required PHP4 to run. Looking for a small framwork that stayed out of the way
+was fruitless. So Jack's PHP came together over the course of a couple of days. It's
+been receiving some care since then.
+
+Features:
+* Works on PHP4 (if that really is a feature).
+* Small footprint, under 2K lines of code.
+* Stays out of your way.
+
+See http://jacks.bashme.org for more information.
+
+===================================================================================
+
+Notes:
+
+There is a test folder in the root directory of the application. Jack's PHP doesn't
+provide any testing tools at the moment (probably won't ever). Use something like
+PHPUnit or SimpleTest if you want to attempt unit testing with PHP.
+
+===================================================================================
+
+Credits:
+
+Russ Smith, Stephan Walton
 
 Some code borrowed from the Creovel project (http://www.creovel.org).
