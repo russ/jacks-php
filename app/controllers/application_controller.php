@@ -1,0 +1,7 @@
+<?
+
+class ApplicationController extends Controller
+{
+}
+
+?>

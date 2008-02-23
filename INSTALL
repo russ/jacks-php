@@ -1,0 +1,9 @@
+INSTALLATION INSTRUCTIONS
+====================================================================================
+
+1. Copy the directory to your webroot.
+2. Enable mod_rewrite in Apache.
+3. Point Apache to the public directory of the application.
+4. Copy config/database.php.sample to config/database.php. Edit the file 
+   to reflect your database settings. Only the development block needs to be set.
+5. Load the db/schema.sql into your database.

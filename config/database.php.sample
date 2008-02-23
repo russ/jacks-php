@@ -1,0 +1,26 @@
+<?
+
+$database_config = array();
+
+$database_config['development'] = array(
+	"host"			=> "localhost",
+	"user"			=> "root",
+	"password"	=> "",
+	"database"	=> ""
+);
+
+$database_config['test'] = array(
+	"host"			=> "localhost",
+	"user"			=> "root",
+	"password"	=> "",
+	"database"	=> ""
+);
+
+$database_config['production'] = array(
+	"host"			=> "localhost",
+	"user"			=> "root",
+	"password"	=> "",
+	"database"	=> ""
+);
+
+?>
